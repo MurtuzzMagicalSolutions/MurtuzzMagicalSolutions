@@ -1,4 +1,4 @@
-<h1 align="center">murtaza</h1>
+<h1 style="color:blue;">murtaza</h1>
 
 
 - 👋 Hi, I’m @MurtuzzMagicalSolutions
