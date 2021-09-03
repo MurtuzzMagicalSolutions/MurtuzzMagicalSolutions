@@ -1,6 +1,8 @@
 <h1 align="center" color="blue">murtaza</h1>
 <ul><li>hi</li><li>bye</li>
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
+  
 - 👋 Hi, I’m @MurtuzzMagicalSolutions
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
